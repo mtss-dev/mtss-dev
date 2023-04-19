@@ -3,27 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Matheus+Santos;I'm+21+years+old;I'm+from+Brazil;I'm+a+Computer+Science+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<img align="right" alt="Coding" width="330" src="https://i.gifer.com/31Kl.gif">
+ <img align="right" alt="Coding" width="350" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> 
 
-
-
-- 🌱I'm currently learning **Web Development (front-end and back-end)**
-
-- 💬 Ask me about **C, Python, SQL, Machine Learning and Deep Learning.**
-
-- 📫 How to reach me **matheus.silva@icomp.ufam.edu.br**
-
-- 😄 Pronouns: He/Him <br> <br>
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/matheusk2.silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matheusk2.silva" height="30" width="40" /></a>
-<a href="https://instagram.com/_mts444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mts444" height="30" width="40" /></a>
-<a href="https://discord.gg/Matheus Silva #3551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Matheus Silva #3551" height="30" width="40" /></a>
-</p>
 
 <h3 align="left"> Main skills:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
@@ -53,6 +34,13 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mtss-dev}/count.svg"/></p> 
 <br>
 </div>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://fb.com/matheusk2.silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matheusk2.silva" height="30" width="40" /></a>
+<a href="https://instagram.com/_mts444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mts444" height="30" width="40" /></a>
+<a href="https://discord.gg/Matheus Silva #3551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Matheus Silva #3551" height="30" width="40" /></a>
+</p>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer&animation=fadeIn"/>
 
