@@ -26,7 +26,7 @@
   <img width="435em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtss-dev&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mtss-dev"/> <br><br>
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mtss-dev&bg_color=000000&color=303fb0&line=2724db&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mtss-dev&bg_color=000000&color=303fb0&line=2724db&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
